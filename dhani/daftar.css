@@ -1,0 +1,34 @@
+img
+{
+    width: 50px;
+    height: 50px;
+}
+
+body{
+    background-image: url("image/11.jpg");
+}
+.conten{
+    border: 1px solid;
+    width: 450px;
+    margin-left: 400px;
+    padding-left: 100px;
+    background-color: white;
+}
+input{
+    width:300px;
+}
+.tanggal{
+    height: 30px;
+}
+.judul{
+    margin-left: 20px;
+}
+
+
+.input{
+    margin-left: 150px;
+    background-color: rgba(48, 207, 48, 0.877);
+    color: honeydew;
+    width: 100px;
+}
+
